@@ -1,0 +1,7 @@
+C:\Users\79509\source\repos\TaskMTS\TaskMTS\bin\Debug\TaskMTS.exe.config
+C:\Users\79509\source\repos\TaskMTS\TaskMTS\bin\Debug\TaskMTS.exe
+C:\Users\79509\source\repos\TaskMTS\TaskMTS\bin\Debug\TaskMTS.pdb
+C:\Users\79509\source\repos\TaskMTS\TaskMTS\obj\Debug\TaskMTS.csprojAssemblyReference.cache
+C:\Users\79509\source\repos\TaskMTS\TaskMTS\obj\Debug\TaskMTS.csproj.CoreCompileInputs.cache
+C:\Users\79509\source\repos\TaskMTS\TaskMTS\obj\Debug\TaskMTS.exe
+C:\Users\79509\source\repos\TaskMTS\TaskMTS\obj\Debug\TaskMTS.pdb
